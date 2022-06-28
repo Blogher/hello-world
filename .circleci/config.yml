@@ -1,6 +1,4 @@
 version: 2.1
-orbs:
-  welcome
 jobs:
   print_hello:
     docker:
