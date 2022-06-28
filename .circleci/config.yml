@@ -1,6 +1,9 @@
 version: 2.1
+<<<<<<< HEAD
 orbs:
   welcome
+=======
+>>>>>>> b2a3137349554162b33cf1c1a0319767daa4e324
 jobs:
   print_hello:
     docker:
